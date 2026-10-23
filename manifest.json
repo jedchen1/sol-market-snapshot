@@ -1,11 +1,11 @@
 {
-  "current_sha256": "8f9ce0960da8d2ec9a0c19a3b44dce5f763722ff87089dbf13c4e39b99dafc2c",
-  "generated_at_utc": "2026-10-23T00:00:01.406+00:00",
-  "github_bridge_published_at_utc": "2026-10-23T00:00:10.842Z",
-  "published_at_utc": "2026-10-23T00:00:01.456Z",
-  "request_id": "6d4249da314010db48c70a864df303df",
+  "current_sha256": "dad58e4b9faf10397aec66a91a93efbeaffb3d8b20c775a4a7c2bc71400e9cbb",
+  "generated_at_utc": "2026-10-23T00:01:00.701+00:00",
+  "github_bridge_published_at_utc": "2026-10-23T00:01:10.840Z",
+  "published_at_utc": "2026-10-23T00:01:00.749Z",
+  "request_id": "262b6ba0b5989efd69dcdb50229b4c1d",
   "schema": "SOL_PUBLIC_MANIFEST_V1",
-  "size_bytes": 10492,
-  "snapshot_id": "20261023T000001456Z-6d4249da",
+  "size_bytes": 11594,
+  "snapshot_id": "20261023T000100749Z-262b6ba0",
   "symbol": "SOLUSDT"
 }
